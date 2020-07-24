@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bodybybona",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "lightamp",
       "title": "LightAMP",
@@ -58,7 +58,7 @@
         "title": "Personal Trainer",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<div id=\"container_0_17683961453551\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.298972562825494\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_17683961453551', 'TqbKBzni4mkkCezoLETRX5juULI3geuIohizTHvsiP4Xf7yYFHzwaPNlI9bU'); });</script>\n",
+        "footer_custom": "<div id=\"container_0_6781288018072307\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.603178415727229\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_6781288018072307', 'biS4FG9He4ESpqVALMZ4jsmygLDZJ5JnRxpLw92MMTPGViQ1gMY3MkzMQ9Ej'); });</script>\n",
         "html_before": ""
       },
       "components": [
