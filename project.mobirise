@@ -4111,7 +4111,8 @@
     "page6.html": {
       "settings": {
         "title": "FAQ",
-        "order": 8
+        "order": 8,
+        "header_custom": "<div id=\"container_0_17998081851302938\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.23195995586624052\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_17998081851302938', 'NoCTA2Zv2rdH6WFDZqJAhTXE6Zjcys5v6OdY8Vnw40NggKAU4dlUe5LMsVra'); });</script>"
       },
       "components": [
         {
@@ -4726,23 +4727,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"container_0_17998081851302938\"></div>[JS_CODE_0][JS_CODE_1]",
-          "_customCSS": "/* Type valid AMP CSS here */\n\ndiv {\n  padding: 80px 80;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-2i",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script defer src=\"https://widget.botssup.com/botzzup.js?r=0.23195995586624052\"></script>",
-            "<script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_17998081851302938', 'NoCTA2Zv2rdH6WFDZqJAhTXE6Zjcys5v6OdY8Vnw40NggKAU4dlUe5LMsVra'); });</script>"
-          ]
         }
       ]
     },
