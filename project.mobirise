@@ -664,8 +664,8 @@
       "settings": {
         "title": "About Me",
         "order": 12,
-        "html_before": "<div id=\"container_0_6781288018072307\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.603178415727229\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_6781288018072307', 'biS4FG9He4ESpqVALMZ4jsmygLDZJ5JnRxpLw92MMTPGViQ1gMY3MkzMQ9Ej'); });</script>",
-        "footer_custom": ""
+        "html_before": "",
+        "footer_custom": "<div id=\"container_0_6781288018072307\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.603178415727229\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_6781288018072307', 'biS4FG9He4ESpqVALMZ4jsmygLDZJ5JnRxpLw92MMTPGViQ1gMY3MkzMQ9Ej'); });</script>"
       },
       "components": [
         {
