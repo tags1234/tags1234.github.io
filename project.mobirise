@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "bodybybona",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "lightamp",
       "title": "LightAMP",
@@ -59,7 +59,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "\n",
-        "html_before": ""
+        "html_before": "<div id=\"container_0_17998081851302938\"></div><script defer src=\"https://widget.botssup.com/botzzup.js?r=0.23195995586624052\"></script><script>document.addEventListener('DOMContentLoaded', () => { Botzzup.init('#container_0_17998081851302938', 'NoCTA2Zv2rdH6WFDZqJAhTXE6Zjcys5v6OdY8Vnw40NggKAU4dlUe5LMsVra'); });</script>"
       },
       "components": [
         {
