@@ -54,9 +54,9 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>",
         "footer_custom": "",
-        "html_before": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>"
+        "html_before": ""
       },
       "components": [
         {
