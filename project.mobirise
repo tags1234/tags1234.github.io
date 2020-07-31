@@ -81,7 +81,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": " <amp-script layout=\"container\" src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\">\n    <p><div id=\"container_0_23973619027419935\"></div><script ></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>\n</amp-script>",
+        "footer_custom": "<amp-script layout=\"container\" src=\"https://example.com/myfile.js\">\n    <p><div id=\"container_0_4463529395228797\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.42209574117710225\"></script><script>Botzzup.init('#container_0_4463529395228797', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</p>\n  </amp-script>",
         "html_before": ""
       },
       "components": [
