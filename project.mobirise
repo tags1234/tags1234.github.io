@@ -53,8 +53,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<div id=\"container_0_2859080100589213\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.05881225349669583\"></script><script>Botzzup.init('#container_0_2859080100589213', 'VlrsD3WZu4O2jatz3oYUw0Zcmf1N7qd1JXUSw21aoNWRSZnCLxGeo0s3ACrf');</script>",
-        "footer_custom": "",
+        "header_custom": "",
+        "footer_custom": "<div id=\"container_0_2859080100589213\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.05881225349669583\"></script><script>Botzzup.init('#container_0_2859080100589213', 'VlrsD3WZu4O2jatz3oYUw0Zcmf1N7qd1JXUSw21aoNWRSZnCLxGeo0s3ACrf');</script>",
         "html_before": ""
       },
       "components": [
