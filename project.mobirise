@@ -13,15 +13,15 @@
         "warningColor": "#767676",
         "dangerColor": "#e7f0ff",
         "mainFont": "Roboto",
-        "display1Font": "Maven Pro",
+        "display1Font": "Poiret One",
         "display1Size": 4.8,
-        "display2Font": "Maven Pro",
+        "display2Font": "Poiret One",
         "display2Size": 3.2,
-        "display5Font": "Maven Pro",
+        "display5Font": "Poiret One",
         "display5Size": 1.7,
-        "display7Font": "Maven Pro",
+        "display7Font": "Poiret One",
         "display7Size": 1.1,
-        "display4Font": "Maven Pro",
+        "display4Font": "Poiret One",
         "display4Size": 0.9,
         "isRoundedButtons": false,
         "isScrollToTopButton": false,
@@ -39,6 +39,26 @@
         "css": "'Maven Pro', sans-serif",
         "name": "Maven Pro",
         "url": "https://fonts.googleapis.com/css?family=Maven+Pro:400,500,600,700,800,900"
+      },
+      {
+        "css": "'Poiret One', display",
+        "name": "Poiret One",
+        "url": "https://fonts.googleapis.com/css?family=Poiret+One:400"
+      },
+      {
+        "css": "'Forum', display",
+        "name": "Forum",
+        "url": "https://fonts.googleapis.com/css?family=Forum:400"
+      },
+      {
+        "css": "'Pontano Sans', sans-serif",
+        "name": "Pontano Sans",
+        "url": "https://fonts.googleapis.com/css?family=Pontano+Sans:400"
+      },
+      {
+        "css": "'News Cycle', sans-serif",
+        "name": "News Cycle",
+        "url": "https://fonts.googleapis.com/css?family=News+Cycle:400,700"
       }
     ],
     "cleanCSS": true,
