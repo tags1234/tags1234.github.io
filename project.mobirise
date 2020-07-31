@@ -13,15 +13,15 @@
         "warningColor": "#767676",
         "dangerColor": "#e7f0ff",
         "mainFont": "Roboto",
-        "display1Font": "Roboto",
+        "display1Font": "Maven Pro",
         "display1Size": 4.8,
-        "display2Font": "Roboto",
+        "display2Font": "Maven Pro",
         "display2Size": 3.2,
-        "display5Font": "Roboto",
+        "display5Font": "Maven Pro",
         "display5Size": 1.7,
-        "display7Font": "Roboto",
+        "display7Font": "Maven Pro",
         "display7Size": 1.1,
-        "display4Font": "Roboto",
+        "display4Font": "Maven Pro",
         "display4Size": 0.9,
         "isRoundedButtons": false,
         "isScrollToTopButton": false,
@@ -34,7 +34,13 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Maven Pro', sans-serif",
+        "name": "Maven Pro",
+        "url": "https://fonts.googleapis.com/css?family=Maven+Pro:400,500,600,700,800,900"
+      }
+    ],
     "cleanCSS": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -54,8 +60,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>",
-        "footer_custom": "",
+        "header_custom": "",
+        "footer_custom": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>",
         "html_before": ""
       },
       "components": [
