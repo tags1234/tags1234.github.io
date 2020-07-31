@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-30_1845",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "antivirusamp",
       "title": "AntiVirusAMP",
@@ -56,7 +56,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>"
       },
       "components": [
         {
@@ -2366,7 +2366,7 @@
       "settings": {
         "title": "Coolsculpting Cost",
         "order": 3,
-        "html_before": "<div id=\"container_0_23973619027419935\"></div><script src=\"https://widget.botzzup.com/botzzup.js?r=0.7279703794048487\"></script><script>Botzzup.init('#container_0_23973619027419935', '2WHiQxBQVHPEX0i4lB56BhPEOdH3Aj5L51lyvgAGrP4gItdqoguvgELIDn2E');</script>"
+        "html_before": ""
       },
       "components": [
         {
