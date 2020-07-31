@@ -83,7 +83,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "<script async custom-element=\"amp-script\" src=\"https://cdn.ampproject.org/v0/amp-script-0.1.js\"></script>",
-        "footer_custom": "<amp-script layout=\"container\" src=\"https://widget.botzzup.com/botzzup-amp.js?r=0.9156838609439665\">\n  <div id=\"container_0_7030463421158374\" data-type=\"botzzup-bot\" data-secret=\"Sy1XHrBiPBkkRrcwrh0tX7QTiZ8i5fQzNFguEG7TNbh1s03XJPAk5ZvhPEWd\"></div>\n</amp-script>",
+        "footer_custom": "<amp-script script=myScript layout=container>\n  </amp-script>\n  <script type=text/plain target=amp-script id=myScript>\n    document.body.textContent += 'Hello world!';\n  </script>",
         "html_before": ""
       },
       "components": [

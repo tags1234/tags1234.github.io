@@ -1242,7 +1242,7 @@
         <div class="mbr-row mbr-jc-c">
             <div class="mbr-col-sm-12 mbr-col-lg-8 mbr-col-md-12" data-form-type="formoid">
 <!--Formbuilder Form-->
-<form method="post" class="mbr-form" action-xhr="https://formoid.net/api/amp-form/push" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="hjrTQNbQBfyKc+h6eYX4QWZKz9LPHYZz/AFcWhIVhDukTpMiabSTAYVZtoEpCgyfXBPqIqJHOJI/9vMi6+oq5oZ8RR673ltWNoKaVHnnzyMUHxsna55do12bQ7x7whpj">
+<form method="post" class="mbr-form" action-xhr="https://formoid.net/api/amp-form/push" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="Zcpq9cD3D18HQlg1JmUKjsxTpf9AzTfbMKW9QjPF4LFSkyoh8PQE+t77pFYf0oW3TBQQQz44L6CJgWVIukcrOSuBr48gH3F+GMCWxNUJGbXSWlhDrCGE1UJKgSANQsPs">
 <div class="mbr-form-row">
 <div submit-success="" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
 <template data-form-alert="" type="amp-mustache">Subscription successful!</template>
@@ -1341,8 +1341,10 @@
 
 
   
-  <amp-script layout="container" src="https://widget.botzzup.com/botzzup-amp.js?r=0.9156838609439665">
-  <div id="container_0_7030463421158374" data-type="botzzup-bot" data-secret="Sy1XHrBiPBkkRrcwrh0tX7QTiZ8i5fQzNFguEG7TNbh1s03XJPAk5ZvhPEWd"></div>
-</amp-script>
+  <amp-script script="myScript" layout="container">
+  </amp-script>
+  <script type="text/plain" target="amp-script" id="myScript">
+    document.body.textContent += 'Hello world!';
+  </script>
 </body>
 </html>
