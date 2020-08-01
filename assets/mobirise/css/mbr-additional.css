@@ -1188,9 +1188,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s6n64CcWo9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background8.jpg");
+  padding-top: 105px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
 }
 .cid-s6n64CcWo9 h2 {
   text-align: center;
@@ -1429,6 +1429,9 @@ section.lazy-placeholder:after {
     padding-left: 0;
     padding-right: 0;
   }
+}
+.cid-s6n64CcWo9 LABEL {
+  color: #ffffff;
 }
 .cid-s6n5FpMREO {
   padding-top: 45px;
